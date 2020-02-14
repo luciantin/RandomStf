@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>My first three.js app</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+
+    <script src="node_modules/three/build/three.js"></script>
+
+
+    <style>
+        body,html {
+            margin: 0;
+            padding: 0;
+        }
+
+        
+
+        div {
+            display: flex;
+            /* width: 30vw; */
+            height: 70vh;
+        }
+
+        canvas{
+            flex: 1;
+        }
+
+        p{
+            flex: 1;
+        }
+        /* #visual-izer-9000{
+            flex: 1;
+        } */
+
+    </style>
+</head>
+
+<body>
+    <div>
+    <canvas id="visual-izer-9000"></canvas>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ipsa minus ea pariatur provident consectetur cumque iure? Provident ullam consequuntur doloremque vero? Laudantium, consectetur. Quibusdam, voluptatum! Commodi soluta dolor repellat asperiores non cum est veniam corporis eius, harum, quis voluptatibus et aut cupiditate vitae nihil porro, debitis dolore minima eum alias rerum quasi incidunt? Labore quam modi dicta illo et.</p>
+    </div>
+
+    <script>
+        var scene = new THREE.Scene();
+        var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        var renderer = new THREE.WebGLRenderer({canvas: document.getElementById("visual-izer-9000")});
+
+
+        var geometry = new THREE.BoxGeometry();
+        var material = new THREE.MeshBasicMaterial({
+            color: 0xf0ff0f
+        });
+
+        var cube = new THREE.Mesh(geometry, material);
+        scene.add(cube);
+
+        camera.position.z = 4; 
+
+
+        function resizeCanvasToDisplaySize() {
+            // look up the size the canvas is being displayed
+
+            const canvas = document.getElementById("visual-izer-9000");
+            const width = canvas.clientWidth;
+            const height = canvas.clientHeight;
+
+            // adjust displayBuffer size to match
+            if (canvas.width !== width || canvas.height !== height) {
+                // you must pass false here or three.js sadly fights the browser
+                renderer.setSize(width, height, false);
+                camera.aspect = width / height;
+                camera.updateProjectionMatrix();
+            }
+        }
+
+
+        function animate() {
+
+            resizeCanvasToDisplaySize();
+
+            requestAnimationFrame(animate);
+            cube.rotation.x += 0.1;
+            cube.rotation.y += 0.1;
+
+            renderer.render(scene, camera);
+        }
+
+        animate();
+    </script>
+
+
+
+</body>
+
+</html>
