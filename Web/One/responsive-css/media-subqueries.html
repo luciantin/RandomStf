@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+   
+    <style>
+
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background:#333;
+            color: #fff;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        h1{
+            display: none;
+        }
+
+        
+
+        /* Smartphones */
+        @media(max-width: 500px){
+            body{
+                background: #ff0000;
+            }
+
+            .smartphone h1{
+                display: block;
+            }
+        }
+
+        @media(min-width: 501px) and (max-width: 768px){
+            body{
+                background: #0000ff;
+            }
+
+            .tablet h1{
+                display: block;
+            }
+        }
+
+        @media(min-width: 769px) and (max-width: 1200px){
+            body{
+                background: #00ff00;
+            }
+
+            .normal h1{
+                display: block;
+            }
+        }
+
+        @media(min-width: 1201px){
+            body{
+                background: #f00ff0;
+            }
+
+            .wide-screen h1{
+                display: block;
+            }
+        }
+
+
+        @media(max-height: 500px){
+            body{
+                background: #f0ff00;
+            }
+
+            .landscape h1{
+                display: block;
+            }
+        }
+
+    </style>
+
+     <!-- Only loads when screen width is smaller than 769px -->
+     <link rel="stylesheet" media="screen and (max-width: 768px)" href="mobile.css">
+
+
+
+
+</head>
+<body>
+    <div class="wide-screen"><h1>Wide Screen</h1></div>
+    <div class="normal"><h1>normal Screen</h1></div>
+    <div class="tablet"><h1>tablet Screen</h1></div>
+    <div class="smartphone"><h1>smartphone Screen</h1></div>
+    <div class="landscape"><h1>landscape Screen</h1></div>
+    
+</body>
+</html>

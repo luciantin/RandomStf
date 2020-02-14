@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+        #box-1 {
+            background-color: cadetblue;
+            border-style:solid;
+        }
+
+        #box-2 {
+            border: 20px groove #ccc;
+            margin: 30p;
+            border-radius: 12px;
+        }
+
+        #box-3 {
+            background-image: url(http://source.unsplash.com/random?blue+sky);
+            color: blueviolet;
+            background-repeat: round;
+            background-position: center center;
+            background-size: cover;
+            background-attachment: fixed;
+            width: 400;
+            height: 400;
+        }
+
+        .inverted-bar {
+            position: relative;
+        }
+
+        .inverted-bar:before,
+        .inverted-bar:after {
+            padding: 10px 0;
+            text-indent: 10px;
+            position: absolute;
+            white-space: nowrap;
+            overflow: hidden;
+            content: attr(data-content);
+        }
+
+        .inverted-bar:before {
+            background-color: aqua;
+            color: red;
+            width: 100%;
+        }
+
+        .inverted-bar:after {
+            background-color: red;
+            color: aqua;
+            width: 10%;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="inverted-bar" data-content="Lorem ipsum dolor sit amet"></div>
+
+    <div id="box-1">
+        <h3>Box one</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, excepturi. Perspiciatis est id tempora
+            numquam! Non expedita quasi magnam illum consectetur ipsam, quibusdam dignissimos. Eveniet eligendi neque
+            iusto sed accusantium.</p>
+    </div>
+
+    <div id="box-2">
+        <h3>Box two</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, excepturi. Perspiciatis est id tempora
+            numquam! Non expedita quasi magnam illum consectetur ipsam, quibusdam dignissimos. Eveniet eligendi neque
+            iusto sed accusantium.</p>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse odit, vel veritatis qui unde iusto quidem,
+            totam neque eos alias illo mollitia quasi autem ratione nihil dolorum non at ab! Lorem ipsum dolor sit amet
+            consectetur adipisicing elit. Quisquam ad temporibus molestias, quos distinctio sed quaerat veritatis, autem
+            earum, dicta alias asperiores. Eos repellat ut ullam corrupti vero minima aliquam. Lorem ipsum dolor sit
+            amet consectetur adipisicing elit. Aliquid accusantium hic doloribus minima! Laudantium molestiae quaerat
+            nulla quis placeat reprehenderit illo quos nesciunt sed itaque totam officia, recusandae sunt excepturi.</p>
+    </div>
+
+    <div id="box-3">
+        <h3>Box three</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, excepturi. Perspiciatis est id tempora
+            numquam! Non expedita quasi magnam illum consectetur ipsam, quibusdam dignissimos. Eveniet eligendi neque
+            iusto sed accusantium.</p>
+    </div>
+
+    <div id="box-4">
+        <h3>Box four</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, excepturi. Perspiciatis est id tempora
+            numquam! Non expedita quasi magnam illum consectetur ipsam, quibusdam dignissimos. Eveniet eligendi neque
+            iusto sed accusantium.</p>
+    </div>
+
+</body>
+
+</html>
