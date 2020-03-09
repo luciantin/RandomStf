@@ -134,7 +134,7 @@ int main(){
 
     srand (time(NULL));
     
-    for(int i; i<10; i++){
+    for(int i = 0; i<10; i++){
         tmp_st = new tstudent;
         tmp_st->mat_br = rand() % 10 + 1;
         push_front(popis,tmp_st);
