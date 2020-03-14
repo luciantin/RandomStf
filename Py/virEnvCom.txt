@@ -1,0 +1,9 @@
+/home/tin/Documents/Dev-Random/Py
+
+$ mkvirtualenv --always-copy --no-download <path>
+
+$ mkvirtualenv --always-copy --no-download $(pwd)
+
+$ mkvirtualenv --python=python3.7 --clear --no-download --always-copy $(pwd)
+
+$ rmvirtualenv ../< path do foldera (jer pocinje u krivom) >
