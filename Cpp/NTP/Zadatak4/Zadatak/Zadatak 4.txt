@@ -1,0 +1,6 @@
+NTP
+Zadatak 4.
+
+Uz zadatak se nalazi slika hijerhija_nasljedivanje. Slika prikazuje hijerhiju klasa s pripadajućim javnim sučeljima, potrebno je implementirati sve tipove (prema slici) i napisati main funkciju u kojoj prikazujete korištenje klasa.
+
+Ispravno rješeni zadatak nosi 1 bod. Vrijede pravila definirana u syllabusu. Rok je tjedan dana od objavljivanja. Zadatke mogu predati redovni i izvanredni studenti.

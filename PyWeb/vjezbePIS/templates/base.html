@@ -1,0 +1,19 @@
+<html>
+    <style>
+        * {
+            background-color: blue;
+        }
+    </style>
+    <head>
+        {% if title %}
+        <title>{{ title }} - Prevencija</title>
+        {% else %}
+        <title>Dobrodošli na prevenciju</title>
+        {% endif %}
+    </head>
+    <body>
+        <div>Microblog: <a href="/index">Home</a></div>
+        <hr>
+        {% block content %}{% endblock %}
+    </body>
+</html>
