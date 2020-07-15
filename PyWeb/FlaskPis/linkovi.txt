@@ -1,0 +1,8 @@
+flask-palletsprojects-com-en-1.1.x.pdf
+
+
+https://cs.stanford.edu/people/nick/python-in-one-easy-lesson/
+
+
+http://exploreflask.com/en/latest/organizing.html
+

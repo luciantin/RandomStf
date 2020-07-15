@@ -101,6 +101,13 @@ void Matrix::add(const double b){
 
 void Matrix::operator!(){
   std::cout<<'A';
-  // for(int i=0;i<col;i++) for(int j=0;j<row;j++) data[i][j] += b;
-  // return *this;
+}
+
+Matrix::Matrix(const Matrix &x){
+  SetMetaData(x.col,x.row);
+  
+  data = new double* [col];  
+  for(int i=0;i<col;i++) data[i] = new double[row];
+  
+  for(int i = 0; i<col;i++)for(int j = 0; j<row;j++) data[i][j]=x.data[i][j];
 }

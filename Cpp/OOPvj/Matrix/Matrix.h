@@ -18,6 +18,7 @@ class Matrix{
   Matrix(int x, int y);
   explicit Matrix(int x);
   Matrix(const Matrix &x);
+  // Matrix() = delete;
   ~Matrix();
 
   Matrix operator+(const double b);

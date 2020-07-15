@@ -1,0 +1,783 @@
+10000 Zagreb
+10010 Zagreb-Slobo�tina
+10020 Zagreb-Novi Zagreb
+10040 Zagreb-Dubrava
+10090 Zagreb-Susedgrad
+10110 Zagreb
+10250 Lu�ko
+10251 Hrvatski Leskovac
+10253 Donji Dragono�ec
+10255 Gornji Stupnik
+10257 Brezovica
+10290 Zapre�i�
+10291 Prigorje Brdove�ko
+10292 �enkovec
+10293 Dubravica
+10294 Donja Pu��a
+10295 Kupljenovo
+10296 Luka
+10297 Jakovlje
+10298 Donja Bistra
+10299 Marija Gorica
+10310 Ivani�-Grad
+10311 Posavski Bregi
+10312 Klo�tar Ivani�
+10313 Graberje Ivani�ko
+10314 Kri�
+10315 Novoselec
+10316 Lijevi Dubrov�ak
+10340 Vrbovec
+10341 Lonjica
+10342 Dubrava
+10343 Nova Kapela
+10344 Farka�evac
+10345 Gradec
+10346 Preseka
+10347 Rakovec
+10360 Sesvete
+10361 Sesvete-Kraljevec
+10362 Ka�ina
+10363 Belovar
+10370 Dugo Selo
+10372 Oborovo
+10373 Ivanja Reka
+10380 Sveti Ivan Zelina
+10381 Bedenica
+10382 Donja Zelina
+10383 Komin
+10408 Velika Mlaka
+10410 Velika Gorica
+10411 Orle
+10412 Donja Lomnica
+10413 Kravarsko
+10414 Pokupsko
+10415 Novo �i�e
+10417 Bu�evec
+10418 Dubranec
+10419 Vukovina
+10430 Samobor
+10431 Sveta Nedjelja
+10432 Bregana
+10434 Strmec Samoborski
+10435 Sveti Martin pod Oki�em
+10436 Rakov Potok
+10437 Bestovje
+10450 Jastrebarsko
+10451 Pisarovina
+10453 Gorica Svetojanska
+10454 Kra�i�
+10455 Kostanjevac
+10456 Kalje
+10457 So�ice
+20000 Dubrovnik
+20205 Topolo
+20207 Mlini
+20210 Cavtat
+20213 �ilipi
+20215 Gruda
+20216 Dubravka
+20217 Pridvorje
+20218 Plo�ice
+20221 Kolo�ep
+20222 Lopud
+20223 �ipanjska Luka
+20224 Maranovi�i
+20225 Babino Polje
+20226 Gove�ari
+20230 Ston
+20231 Doli
+20232 Slano
+20233 Trsteno
+20234 Ora�ac
+20235 Zaton Veliki
+20236 Moko�ica
+20240 Trpanj
+20242 Oskoru�no
+20243 Kuna
+20244 Potomje
+20245 Trstenik
+20246 Janjina
+20247 �uljana
+20248 Putnikovi�
+20250 Orebi�
+20260 Kor�ula
+20263 Lumbarda
+20264 Ra�i��e
+20267 Ku�i�te
+20269 Lovi�te
+20270 Vela Luka
+20271 Blato
+20272 Smokvica
+20273 �ara
+20274 Pupnat
+20275 �rnovo
+20278 Nova Sela
+20290 Lastovo
+20340 Plo�e
+20341 Kula Norinska
+20342 Otri� Seoci
+20343 Rogotin
+20344 Komin (Dalma)
+20345 Sta�evica
+20350 Metkovi�
+20352 Vid
+20353 Mlini�te
+20355 Opuzen
+20356 Klek
+20357 Blace
+21233 Hrvace
+21236 Vrlika
+21238 Otok (Dalmacija)
+21240 Trilj
+21241 Obrovac Sinjski
+21242 Grab
+21243 Ugljane
+21244 Cista Velika
+21245 Tijarica
+21246 Ar�ano
+21247 Neori�
+21250 �estanovac
+21251 �rnovnica
+21252 Tugare
+21253 Gata
+21254 Blato na Cetini
+21255 Zadvarje
+21256 Cista Provo
+21257 Lovre�
+21260 Imotski
+21261 Runovi�
+21262 Kamenmost
+21263 Krivodol
+21264 Donji Prolo�ac
+21265 Studenci
+21266 Zmijavci
+21267 Ri�ice
+21270 Zagvozd
+21271 Grabovac
+21272 Slivno
+21273 �upa
+21275 Dragljane
+21276 Vrgorac
+21277 Veliki Prolog
+21292 Srinjine
+21300 Makarska
+21310 Omi�
+21311 Stobre�
+21312 Podstrana
+21314 Jesenice
+21315 Dugi Rat
+21317 Lokva Rogoznica
+21318 Mimice
+21320 Ba�ka Voda
+21322 Brela
+21323 Promajna
+21325 Tu�epi
+21327 Podgora
+21328 Dra�nice
+21329 Igrane
+21330 Gradac
+21333 Drvenik
+21334 Zaostrog
+21335 Podaca
+21400 Supetar
+21403 Sutivan
+21404 Lo�i��a
+21405 Milna
+21410 Postira
+21412 Pu�i��a
+21413 Povlja
+21420 Bol
+21423 Nere�i��a
+21424 Pra�nica
+21425 Selca
+21430 Grohote
+21432 Stomorska
+21450 Hvar
+21454 Brusje
+21460 Stari Grad
+21462 Vrbanj
+21463 Vrboska
+21465 Jelsa
+21466 Zastra�i��e
+21467 Gdinj
+21469 Su�uraj
+21480 Vis
+21483 Pod�pilje
+21485 Komi�a
+22000 �ibenik
+22030 �ibenik-Zabla�e
+22202 Primo�ten
+22203 Rogoznica
+22204 �iroke
+22205 Perkovi�
+22206 Boraja
+22211 Vodice
+22212 Tribunj
+22213 Pirovac
+22214 �ista Velika
+22215 Zaton
+22221 Lozovac
+22222 Skradin
+22232 Zlarin
+22233 Prvi� Luka
+22234 Prvi� �epurine
+22235 Kaprije
+22236 �irje
+22240 Tisno
+22242 Jezera
+22243 Murter
+22244 Betina
+22300 Knin
+22301 Golubi�
+22303 Oklaj
+22305 Kistanje
+22310 Kijevo
+22320 Drni�
+22321 Siveri�
+22322 Ru�i�
+22323 Une�i�
+22324 Drinovci
+23000 Zadar
+23205 Bibinje
+23206 Suko�an
+23207 Sveti Filip i Jakov
+23210 Biograd na moru
+23211 Pako�tane
+23212 Tkon
+23222 Zemunik
+23223 �kabrnja
+23226 Pridraga
+23231 Petr�ane
+23232 Nin
+23233 Privlaka (Dalmacija)
+23234 Vir
+23235 Vrsi
+23241 Poli�nik
+23242 Posedarje
+23243 Jasenice
+23244 Starigrad Paklenica
+23245 Tribanj
+23247 Vinjerac
+23248 Ra�anac
+23249 Povljana
+23250 Pag
+23251 Kolan
+23262 Pa�man
+23263 �drelac
+23264 Nevi�ane
+23271 Kukljica
+23272 Kali
+23273 Preko
+23274 Lukoran
+23275 Ugljan
+23281 Sali
+23282 �man
+23283 Rava
+23284 Veli I�
+23285 Brbinj
+23286 Bo�ava
+23287 Veli Rat
+23291 Sestrunj
+23292 Molat
+23293 Ist
+23294 Premuda
+23295 Silba
+23296 Olib
+23312 Novigrad (Dalmacija)
+23420 Benkovac
+23422 Stankovci
+23423 Pola�a
+23440 Gra�ac
+23445 Srb
+23450 Obrovac
+23452 Karin
+32000 Vukovar
+32010 Vukovar
+32100 Vinkovci
+32211 Ostrovo
+32212 Gabo�
+32213 Marku�ica
+32214 Tordinci
+32221 Nu�tar
+32222 Br�adin
+32224 Trpinja
+32225 Bobota
+32227 Borovo
+32229 Petrovci
+32232 Sotin
+32233 Opatovac
+32234 �arengrad
+32235 Bapska
+32236 Ilok
+32237 Lovas
+32238 �akovci
+32239 Negoslavci
+32241 Stari Jankovci
+32242 Slakovci
+32243 Orolik
+32244 �eletovci
+32245 Nijemci
+32246 Lipovac
+32247 Banovci
+32248 Ila�a
+32249 Tovarnik
+32251 Privlaka
+32252 Otok
+32253 Komletinci
+32254 Vrbanja
+32255 Soljani
+32256 Stro�inci
+32257 Drenovci
+32258 Posavski Podgajci
+32260 Gunja
+32261 Rajevo Selo
+32262 Ra�inovci
+32263 �uri�i
+32270 �upanja
+32271 Rokovci Andrija�evci
+32272 Cerna
+32273 Gradi�te
+32274 �titar
+32275 Bo�njaci
+32276 Babina Greda
+32280 Jarmina
+32281 Ivankovo
+32282 Retkovci
+32283 Vo�inci
+32284 Stari Mikanovci
+33000 Virovitica
+33404 �pi�i� Bukovica
+33405 Pitoma�a
+33406 Luka�
+33407 Gornje Bazje
+33410 Suhopolje
+33411 Gradina
+33412 Cabuna
+33507 Crnac
+33513 Zdenci
+33514 �a�inci
+33515 Orahovica
+33517 Mikleu�
+33518 Nova Bukovica
+33520 Slatina
+33522 Vo�in
+33523 �a�avica
+33525 Sopje
+33533 Pivnica Slavonska
+34000 Po�ega
+34308 Jak�i�
+34310 Pleternica
+34311 Kuzmica
+34312 Sesvete (kod Po�ege)
+34315 Ratkovica
+34322 Brestovac
+34330 Velika
+34334 Kaptol
+34335 Vetovo
+34340 Kutjevo
+34343 Bekte�
+34350 �aglin
+34543 Poljana
+34550 Pakrac
+34551 Lipik
+34552 Badljevina
+34553 Bu�je
+35105 Slavonski Brod
+35106 Slavonski Brod
+35107 Podvinje
+35201 Podcrkavlje
+35209 Bukovlje
+35214 Donji Andrijevci
+35250 Oriovac
+35252 Sibinj
+35254 Bebrina
+35404 Cernik
+35410 Nova Kapela
+35422 Zapolje
+35428 Dragali�
+35430 Oku�ani
+40000 �akovec
+40305 Nedeli��e
+40306 Macinec
+40311 Lopatinec
+40312 �trigova
+40313 Sveti Martin na Muri
+40314 Selnica
+40315 Mursko Sredi��e
+40317 Podturen
+40318 Dekanovec
+40319 Belica
+40320 Donji Kraljevec
+40321 Mala Subotica
+40322 Orehovica
+40323 Prelog
+40324 Gori�an
+40325 Dra�kovec
+40326 Sveta Marija
+40327 Donji Vidovec
+40328 Donja Dubrava
+40329 Kotoriba
+42000 Vara�din
+42201 Beretinec
+42202 Trnovec Bartolove�ki
+42203 Jal�abet
+42204 Tur�in
+42205 Vidovec
+42206 Petrijanec
+42207 Vinica
+42208 Cestica
+42209 Sra�inec
+42214 Sveti Ilija
+42220 Novi Marof
+42222 Ljube��ica
+42223 Vara�dinske Toplice
+42225 Brezni�ki Hum
+42230 Ludbreg
+42231 Mali Bukovec
+42232 Donji Martijanec
+42233 Sveti �ur�
+42240 Ivanec
+42242 Radovan
+42243 Maru�evec
+42244 Klenovnik
+42245 Donja Vo�a
+42250 Lepoglava
+42253 Bednja
+42254 Trako��an
+42255 Donja Vi�njica
+43000 Bjelovar
+43202 Zrinski Topolovac
+43203 Kapela
+43211 Predava
+43212 Rovi��e
+43226 Veliko Trojstvo
+43227 �androvac
+43231 Ivanska
+43232 Berek
+43233 Trnoviti�ki Popovac
+43240 �azma
+43246 �tefanje
+43247 Narta
+43251 Gudovac
+43252 Prgomelje
+43270 Veliki Gr�evac
+43272 Nova Ra�a
+43273 Bulinac
+43274 Severin
+43280 Gare�nica
+43282 Veliko Vukovje
+43283 Kani�ka Iva
+43284 Hercegovac
+43290 Grubi�no Polje
+43293 Veliki Zdenci
+43500 Daruvar
+43505 Kon�anica (Kon�enice)
+43506 De�anovac
+43507 Uljanik
+43531 Veliki Bastaji
+43532 �ulovac
+43541 Sira�
+44000 Sisak
+44010 Sisak-Caprag
+44201 Martinska Ves
+44202 Topolovac
+44203 Gu��e
+44204 Jabukovac
+44210 Sunja
+44211 Blinjski Kut
+44213 Krate�ko
+44250 Petrinja
+44253 Mo��enica
+44272 Lekenik
+44273 Sela
+44316 Velika Ludina
+44317 Popova�a
+44318 Voloder
+44320 Kutina
+44321 Banova Jaruga
+44322 Lipovljani
+44323 Raji�
+44324 Jasenovac
+44325 Krapje
+44330 Novska
+44400 Glina
+44410 Gvozd
+44415 Topusko
+44430 Hrvatska Kostajnica
+44431 Donji Kukuruzari
+44435 Divu�a
+44440 Dvor
+44450 Hrvatska Dubica
+47000 Karlovac
+47201 Dragani�i
+47203 Re�ica
+47204 �i�ljavi�
+47206 Lasinja
+47212 Skakavac
+47220 Vojni�
+47222 Cetingrad
+47240 Slunj
+47241 Cerovac Vukmani�ki
+47242 Krnjak
+47245 Rakovica
+47246 Dre�nik Grad
+47250 Duga Resa
+47251 Bosiljevo
+47252 Barilovi�
+47261 Zve�aj
+47262 Generalski Stol
+47264 Tounj
+47271 Netreti�
+47272 Ribnik
+47276 �akanje
+47280 Ozalj
+47281 Mali Erjavec
+47282 Kamanje
+47283 Vivodina
+47284 Ka�t
+47285 Radatovi�i
+47286 Mahi�no
+47300 Ogulin
+47302 O�tarije
+47303 Josipdol
+47304 Pla�ki
+47306 Saborsko
+47307 Gornje Zagorje
+47313 Dre�nica
+47314 Jasenak
+48000 Koprivnica
+48214 Sveti Ivan �abno
+48260 Kri�evci
+48264 Klo�tar Vojakova�ki
+48265 Raven
+48267 Orehovec
+48268 Gornja Rijeka
+48269 Kalnik
+48306 Sokolovac
+48311 Kunovec
+48312 Rasinja
+48314 Koprivni�ki Ivanec
+48316 �elekovec
+48317 Legrad
+48321 Peteranec
+48322 Drnje
+48323 Hlebine
+48325 Novigrad Podravski
+48326 Virje
+48327 Molve
+48331 Gola
+48332 �dala
+48350 �ur�evac
+48355 Novo Virje
+48356 Ferdinandovac
+48361 Kalinovac
+48362 Klo�tar Podravski
+48363 Podravske Sesvete
+49000 Krapina
+49210 Zabok
+49214 Veliko Trgovi��e
+49215 Tuhelj
+49216 Desini�
+49217 Krapinske Toplice
+49218 Pregrada
+49221 Bedekov�ina
+49222 Poznanovec
+49223 Sveti Kri� Za�retje
+49224 Lepajci
+49225 �urmanec
+49228 Brestovec Orehovi�ki
+49231 Hum na Sutli
+49232 Radoboj
+49233 Gornje Jesenje
+49234 Petrovsko
+49240 Donja Stubica
+49243 Oroslavje
+49244 Stubi�ke Toplice
+49245 Gornja Stubica
+49246 Marija Bistrica
+49247 Zlatar Bistrica
+49250 Zlatar
+49251 Ma�e
+49252 Mihovljan
+49253 Lobor
+49254 Belec
+49255 Novi Golubovec
+49282 Konj��ina
+49283 Hra��ina-Trgovi��e
+49284 Budin��ina
+49290 Klanjec
+49294 Kraljevec na Sutli
+49295 Kumrovec
+49296 Zagorska Sela
+51000 Rijeka
+51211 Matulji
+51212 Vele Mune
+51213 Jurdani
+51214 �apjane
+51215 Kastav
+51216 Vi�kovo
+51217 Klana
+51218 Dra�ice
+51221 Kostrena
+51222 Bakar
+51223 �krljevo
+51224 Krasica
+51225 Praputnjak
+51226 Hreljin
+51227 Kukuljanovo
+51241 Kri�i��e
+51242 Drivenik
+51243 Tribalj
+51244 Gri�ane
+51250 Novi Vinodolski
+51251 Ledenice
+51252 Klenovica
+51253 Bribir
+51260 Crikvenica
+51261 Bakarac
+51262 Kraljevica
+51263 �mrika
+51264 Jadranovo
+51265 Dramalj
+51266 Selce
+51280 Rab
+51281 Lopar
+51300 Delnice
+51301 Brod na Kupi
+51302 Ku�elj
+51303 Ple�ce
+51304 Gerovo
+51305 Tr��e
+51306 �abar
+51307 Prezid
+51311 Skrad
+51312 Brod Moravice
+51313 Kupjak
+51314 Ravna Gora
+51315 Mrkopalj
+51316 Lokve
+51317 Crni Lug
+51322 Fu�ine
+51323 Li�
+51324 Zlobin
+51325 Moravice
+51326 Vrbovsko
+51327 Gomirje
+51328 Lukovdol
+51329 Severin na Kupi
+51410 Opatija
+51414 I�i�i
+51415 Lovran
+51417 Mo��eni�ka Draga
+51418 Brse�
+51500 Krk
+51511 Malinska
+51512 Njivice
+51513 Omi�alj
+51514 Dobrinj
+51515 �ilo
+51516 Vrbnik
+51517 Korni�
+51521 Punat
+51522 Draga Ba��anska
+51523 Ba�ka
+51550 Mali Lo�inj
+51551 Veli Lo�inj
+51552 Ilovik
+51554 Nerezine
+51555 Belej
+51556 Martin��ica
+51557 Cres
+51559 Beli
+51561 Susak
+51562 Unije
+51564 �unski
+52000 Pazin
+52100 Pula (Pola)
+52203 Medulin
+52204 Li�njan (Lisignano)
+52206 Mar�ana
+52207 Barban
+52208 Krnica
+52210 Rovinj (Rovigno)
+52211 Bale (Valle)
+52212 Fa�ana (Fasana)
+52215 Vodnjan (Dignano)
+52216 Gali�ana (Gallesano)
+52220 Labin
+52221 Rabac
+52222 Koroma�no
+52223 Ra�a
+52224 Trget
+52231 Nede��ina
+52232 Kr�an
+52233 �u�njevica
+52234 Plomin
+52332 Pi�an
+52333 Podpi�an
+52341 �minj
+52342 Svetvin�enat
+52352 Kanfanar
+52402 Cerovlje
+52403 Gra�i��e
+52404 Sveti Petar u �umi
+52420 Buzet
+52422 Lani��e
+52423 Karojba
+52424 Motovun (Montana)
+52425 Ro�
+52426 Lupoglav
+52427 Livade (Levade)
+52428 Oprtalj (Portole)
+52429 Gro�njan (Grisignana)
+52434 Boljun
+52440 Pore� (Parenzo)
+52444 Tinjan
+52445 Baderna
+52446 Nova Vas
+52447 Vi�inada (Visinada)
+52448 Sveti Lovre�
+52449 �ervar Porat
+52450 Vrsar (Orsera)
+52452 Funtana (Fontane)
+52460 Buje (Buie)
+52462 Momjan (Momiano)
+52463 Vi�njan (Visignano)
+52464 Ka�telir (Castelliere)
+52465 Tar (Torre)
+52466 Novigrad (Cittanova)
+52470 Umag (Umago)
+52474 Brtonigla (Verteneglio)
+52475 Savudrija (Salvore)
+53000 Gospi�
+53201 Li�ki Osik
+53202 Peru�i�
+53203 Kosinj
+53206 Bru�ane
+53211 Smiljan
+53212 Klanac
+53213 Donje Pazari�te
+53220 Oto�ac
+53223 Vrhovine
+53224 Li�ko Le��e
+53230 Korenica
+53231 Plitvi�ka Jezera
+53233 Li�ko Petrovo Selo
+53234 Udbina
+53236 Podlapa�a
+53244 Lovinac
+53250 Donji Lapac
+53260 Brinje
+53261 Kri�polje
+53262 Jezerane
+53270 Senj
+53271 Krivi Put
+53273 Vratnik
+53274 Krasno
+53284 Sveti Juraj
+53287 Jablanac
+53288 Karlobag
+53289 Lukovo �ugarje
+53291 Novalja
+53294 Lun
+53296 Zubovi�i
