@@ -37,11 +37,11 @@ def main():
     maxb = max(c[0] for c in colors)
     maxg = max(c[1] for c in colors)
     maxr = max(c[2] for c in colors)
-    print minr, ming, minb, maxr, maxg, maxb
+    print (minr, ming, minb, maxr, maxg, maxb)
 
     lb = [minb,ming,minr]
     ub = [maxb,maxg,maxr]
-    print lb, ub
+    print(lb, ub)
 
 if __name__ == "__main__":
     main()
